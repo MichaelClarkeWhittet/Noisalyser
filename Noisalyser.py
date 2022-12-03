@@ -82,8 +82,8 @@ main_chan = input('Please type name of channel you wish to analyse:   ')
 
 if flag_path == 1:
     # Obtain the path of the current directory
-    dir_path = r'C:\Users\mc01535\OneDrive - University of Surrey\11NOV2021 MCW BIG GROUP'
-    # dir_path = r'C:\Users\mc01535\OneDrive - University of Surrey\11AUG2021 MCW Drive backup\19MAR2021'
+    dir_path = r'filepath'
+    # dir_path = r'filepath'
 
     print('Current path: ', dir_path + '\n')
 elif flag_path == 2:
